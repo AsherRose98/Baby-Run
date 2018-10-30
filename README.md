@@ -1,7 +1,7 @@
 # Baby Run v1.0 (GameMaker - Game Design I Solo Project)
 
 ## Description
-This game was created for Jacksonville State University's Game Design I class using Game Maker Studio. It is a Frogger style game with all original sprites and sound effects. This project was completed in 2 weeks. The background music was created by YouTube user 8-Bit Universe and can be found [here](https://www.youtube.com/watch?v=fbefsj0hIkw)
+This game was created for Jacksonville State University's Game Design I class using Game Maker Studio. It is a Frogger style game with all original sprites and sound effects. This project was completed in 2 weeks and won Top Game in the class leaderboard. The background music was created by YouTube user 8-Bit Universe and can be found [here](https://www.youtube.com/watch?v=fbefsj0hIkw)
 
 ### Features
 ```
